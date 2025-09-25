@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "a6e094122415a6a528987df30957ab83"  # Replace with your real key
+API_KEY = "3d64688a5ee2c7e650bbaf308600513f"  # Replace with your real key
 BASE_URL = "https://api.agromonitoring.com/agro/1.0"
 
 POLYGONS = {
